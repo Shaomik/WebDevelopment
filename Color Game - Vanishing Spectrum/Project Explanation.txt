@@ -1,0 +1,8 @@
+This is a web based color matching game made with web designers and graphics artists in mind.
+The game lets the player practice their RGB color identification skills.
+The overhead RGB gives values for red, green and blue color concentration.
+The player's job is to pick the right color with respect to the given mix from a set of choices.
+Enjoy!
+
+Future refinements include a point system, and guessing streak counter. 
+Database implementation for storing high scores is also considered.
