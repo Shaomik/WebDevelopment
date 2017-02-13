@@ -1,0 +1,2 @@
+This web application uses paper.js (for animation) and howler.js (for sounds) to make a patatap clone.
+Press any key between a-z to see shapes and hear cool sounds. Experiment away! 
